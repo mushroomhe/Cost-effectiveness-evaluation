@@ -1,0 +1,10 @@
+E:\111大三下学期（任务繁重，君须努力）\软件过程与管理王辉\成本效益评价技术第二版\成本效益评价技术第二版\bin\Debug\成本效益评价技术第二版.exe
+E:\111大三下学期（任务繁重，君须努力）\软件过程与管理王辉\成本效益评价技术第二版\成本效益评价技术第二版\bin\Debug\成本效益评价技术第二版.pdb
+E:\111大三下学期（任务繁重，君须努力）\软件过程与管理王辉\成本效益评价技术第二版\成本效益评价技术第二版\obj\x86\Debug\成本效益评价技术第二版.Form1.resources
+E:\111大三下学期（任务繁重，君须努力）\软件过程与管理王辉\成本效益评价技术第二版\成本效益评价技术第二版\obj\x86\Debug\成本效益评价技术第二版.Properties.Resources.resources
+E:\111大三下学期（任务繁重，君须努力）\软件过程与管理王辉\成本效益评价技术第二版\成本效益评价技术第二版\obj\x86\Debug\成本效益评价技术第二版.csproj.GenerateResource.Cache
+E:\111大三下学期（任务繁重，君须努力）\软件过程与管理王辉\成本效益评价技术第二版\成本效益评价技术第二版\obj\x86\Debug\成本效益评价技术第二版.exe
+E:\111大三下学期（任务繁重，君须努力）\软件过程与管理王辉\成本效益评价技术第二版\成本效益评价技术第二版\obj\x86\Debug\成本效益评价技术第二版.pdb
+E:\111大三下学期（任务繁重，君须努力）\软件过程与管理王辉\成本效益评价技术第二版\成本效益评价技术第二版\obj\x86\Debug\成本效益评价技术第二版.csprojResolveAssemblyReference.cache
+F:\MyDownloads\Download\Git\项目仓库\Cost-effectiveness evaluation\成本效益评价技术第二版\成本效益评价技术第二版\obj\x86\Debug\成本效益评价技术第二版.exe
+F:\MyDownloads\Download\Git\项目仓库\Cost-effectiveness evaluation\成本效益评价技术第二版\成本效益评价技术第二版\obj\x86\Debug\成本效益评价技术第二版.pdb
